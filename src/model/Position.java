@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author mad
- */
 public class Position {
         
         private int i;

@@ -7,10 +7,6 @@ package model;
 
 import java.util.Random;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class Fantome extends Personnage {
     
     private static int ID = 0;

@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public abstract class Aliment {
     
     //protected final TypeAliments typeAliment;

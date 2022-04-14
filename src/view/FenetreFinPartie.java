@@ -19,10 +19,6 @@ import javafx.event.EventType;
 import javafx.scene.image.Image;
 import javafx.scene.input.KeyEvent;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class FenetreFinPartie extends Application {
 
     private final Canvas canvas = new Canvas();

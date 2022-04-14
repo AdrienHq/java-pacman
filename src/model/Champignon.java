@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class Champignon extends Aliment {
     
     public Champignon () {

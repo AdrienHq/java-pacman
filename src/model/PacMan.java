@@ -8,10 +8,6 @@ package model;
 import static model.Jeu.POINTS_MANGER_FANTOME;
 import static model.Jeu.POINTS_MANGER_GOMME;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class PacMan extends Personnage {
     
     //private int score = 0;

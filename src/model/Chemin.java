@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class Chemin extends Case {
     
     private Aliment aliment;

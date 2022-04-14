@@ -12,10 +12,6 @@ import java.util.Observable;
 import java.util.Observer;
 import java.util.TreeMap;
 
-/**
- *
- * @author 2303frmalherbe
- */
 public class AffichageConsole implements Observer {
 
     private static final String ANSI_RESET = "\u001B[0m";

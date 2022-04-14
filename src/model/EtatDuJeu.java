@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author Your Name <your.name at your.org>
- */
 public enum EtatDuJeu {
     CONTINUE, MORT, PERDU, FANTOMES_MORTS;
 }
